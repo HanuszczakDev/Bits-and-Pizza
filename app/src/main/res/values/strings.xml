@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bits and Pizza</string>
+    <string name="hello_blank_fragment">Blank Order Fragment</string>
+</resources>
